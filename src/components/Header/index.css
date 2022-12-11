@@ -1,0 +1,19 @@
+.logo-img {
+  height: 50px;
+  width: 80px;
+}
+.header {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+.home {
+  margin-right: 8px;
+}
+.button2 {
+  margin-left: 9px;
+}
+.header-container {
+  display: flex;
+  justify-content: space-around;
+}

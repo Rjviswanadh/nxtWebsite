@@ -1,0 +1,18 @@
+.para {
+  width: 600px;
+}
+.home-page-container {
+  display: flex;
+}
+.cloths-img {
+  height: 80vh;
+}
+.h1-p {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-button {
+  display: flex;
+  justify-content: flex-start;
+}
